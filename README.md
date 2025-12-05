@@ -84,7 +84,7 @@ This zone hosts the network backbone and management interfaces.
 3.  **Test Automation:**
     * **Alt+Click** the Motion Detector in the Couloir -> **Light turns ON**.
 4.  **Test Fire System (SBC):**
-    * **Alt+Click** the Smoke Detector in the Toilet.
+    * **Manual Test:** Drag the **Fire Thing** (Simulated Fire Source) close to the Smoke Detector in the Toilet.
     * Observe: **Siren sounds**, **Window opens**, **LCD flashes**.
     * Check the **MQTT Broker** or Admin Laptop to see the incoming JSON alert:
         ```json
