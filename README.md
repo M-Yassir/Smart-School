@@ -1,8 +1,11 @@
 # 📄 Technical Report: Smart School IoT Infrastructure
 
 **Project Name:** SecureSmart School System
+
 **Environment:** Cisco Packet Tracer Simulation
+
 **Topology:** Star Network with Zone-Based Automation & Clustered Management
+
 **Core Protocols:** MQTT (Telemetry), HTTP (Control), RFID (Security)
 
 ## 1. Executive Summary
