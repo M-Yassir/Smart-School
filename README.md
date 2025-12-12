@@ -52,7 +52,7 @@ This zone hosts the network backbone and management interfaces, organized into f
 
 * **Function:** Energy saving and security surveillance.
 * **Automation Logic:**
-    * **Motion Detector + Light:** "Lights on Demand" — The hallway lights remain OFF to save energy until the Motion Detector senses a person, triggering the Light to ON.
+    * **Motion Detector + Light:** "Lights on Demand", The hallway lights remain OFF to save energy until the Motion Detector senses a person, triggering the Light to ON.
     * **Webcam:** Provides a live video feed to the Administration Smartphone for security monitoring.
 * **Fire Safety:**
     * **Redundant Smoke Detector & Siren:** Provides coverage for the transit area.
