@@ -104,22 +104,22 @@ This zone hosts the network backbone and management interfaces, organized into f
       * **Alt+Click** the Motion Detector in the Transit area -\> **Light turns ON**.
       * Move the **Old Car** near the Transit Smoke Detector to test the alarm.
 
-4. Test Fire System (SBC - Toilet) Setup
+4. **Test Fire System (SBC - Toilet) Setup**
 
 This is a multi-step process for administrators to subscribe to the SBC's alerts.
 
-1.  **Configure MQTT Broker:**
+1.  Configure MQTT Broker:
       * Access the **Server** (MQTT Broker).
       * Go to the **Services** tab, then select **MQTT**.
       * Define the authentication credentials (e.g., User: `admin`, Password: `admin`).
       * Ensure the MQTT Service is **ON**.
-2.  **Configure Admin Monitor:**
+2.  Configure Admin Monitor:
       * Access the **Smartphone** (Admin Monitor).
       * Go to the **Desktop** tab, then select **IoT Monitor**.
       * **Broker IP:** Enter `192.168.25.25`.
       * **Credentials:** Enter the configured User (`admin`) and Password (`admin`).
       * **Subscribe:** Click the **Subscribe** button and enter the topic `home/fire_system`.
-3.  **Manual Test (Fire Simulation):**
+3.  Manual Test (Fire Simulation):
       * Drag the **Fire Thing** (Simulated Fire Source) close to the Fire Monitor in the Toilet.
       * **Observe (Local Actuators):** Siren sounds, Piezo Speaker buzzes, Window opens, LCD updates to **"FIRE DETECTED"**, Sprinkler activates.
       * **Remote Check (Admin Smartphone):** Wait a few moments; the incoming JSON alert will appear under the `home/fire_system` topic:
@@ -127,7 +127,7 @@ This is a multi-step process for administrators to subscribe to the SBC's alerts
         {"alert": "CRITICAL", "location": "Toilet", "value": 1023}
         ```
 
-5. Test Classroom Safety
+5. **Test Classroom Safety**
 
   * **Trigger:** Use **Alt+Click** on the Smoke Detector in the Classroom.
   * **Verify Automation:** Verify the **Window Opens** automatically to vent smoke.
