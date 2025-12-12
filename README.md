@@ -104,7 +104,7 @@ This zone hosts the network backbone and management interfaces, organized into f
       * **Alt+Click** the Motion Detector in the Transit area -\> **Light turns ON**.
       * Move the **Old Car** near the Transit Smoke Detector to test the alarm.
 
-### **4. Test Fire System (SBC - Toilet) Setup**
+4. Test Fire System (SBC - Toilet) Setup
 
 This is a multi-step process for administrators to subscribe to the SBC's alerts.
 
@@ -127,7 +127,7 @@ This is a multi-step process for administrators to subscribe to the SBC's alerts
         {"alert": "CRITICAL", "location": "Toilet", "value": 1023}
         ```
 
-### **5. Test Classroom Safety**
+5. Test Classroom Safety
 
   * **Trigger:** Use **Alt+Click** on the Smoke Detector in the Classroom.
   * **Verify Automation:** Verify the **Window Opens** automatically to vent smoke.
