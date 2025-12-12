@@ -108,18 +108,18 @@ This zone hosts the network backbone and management interfaces, organized into f
 
 This is a multi-step process for administrators to subscribe to the SBC's alerts.
 
-1.  Configure MQTT Broker:
+-  Configure MQTT Broker:
       * Access the **Server** (MQTT Broker).
       * Go to the **Services** tab, then select **MQTT**.
       * Define the authentication credentials (e.g., User: `admin`, Password: `admin`).
       * Ensure the MQTT Service is **ON**.
-2.  Configure Admin Monitor:
+-  Configure Admin Monitor:
       * Access the **Smartphone** (Admin Monitor).
       * Go to the **Desktop** tab, then select **IoT Monitor**.
       * **Broker IP:** Enter `192.168.25.25`.
       * **Credentials:** Enter the configured User (`admin`) and Password (`admin`).
       * **Subscribe:** Click the **Subscribe** button and enter the topic `home/fire_system`.
-3.  Manual Test (Fire Simulation):
+-  Manual Test (Fire Simulation):
       * Drag the **Fire Thing** (Simulated Fire Source) close to the Fire Monitor in the Toilet.
       * **Observe (Local Actuators):** Siren sounds, Piezo Speaker buzzes, Window opens, LCD updates to **"FIRE DETECTED"**, Sprinkler activates.
       * **Remote Check (Admin Smartphone):** Wait a few moments; the incoming JSON alert will appear under the `home/fire_system` topic:
