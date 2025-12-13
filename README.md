@@ -75,7 +75,7 @@ This zone hosts the network backbone and management interfaces, organized into f
 * **Logic:**
     * **Occupancy:** Motion detected -> Light ON.
     * **Emergency:** Smoke detected -> Sprinkler ON, Siren ON, Window OPEN, MQTT Alert SENT.
-* **Simulation Object:** **Fire Thing** — Drag-and-drop object to test the Fire Monitor logic.
+* **Simulation Object:** **Fire Thing** Drag-and-drop object to test the Fire Monitor logic.
 
 ## 3. Communication Diagram
 
