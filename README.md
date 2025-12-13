@@ -46,7 +46,7 @@ This zone hosts the network backbone and management interfaces, organized into f
 * **Actuators:**
     * **Thermostat & Air Conditioner:** Automates climate control based on sensor readings.
     * **Siren:** Audio alarm for fire events.
-    * **Window:** **Safety Override** — Automatically opens to ventilate smoke if the Smoke Detector triggers.
+    * **Window:** **Safety Override** Automatically opens to ventilate smoke if the Smoke Detector triggers.
 
 ### 2.4 Zone D: The Transit / Hallway (Surveillance)
 
