@@ -56,7 +56,7 @@ This zone hosts the network backbone and management interfaces, organized into f
     * **Webcam:** Provides a live video feed to the Administration Smartphone for security monitoring.
 * **Fire Safety:**
     * **Redundant Smoke Detector & Siren:** Provides coverage for the transit area.
-    * **Simulation Object:** **Old Car** — Used to simulate exhaust/smoke for testing detector sensitivity.
+    * **Simulation Object:** **Old Car** Used to simulate exhaust/smoke for testing detector sensitivity.
 
 ### 2.5 Zone E: The Toilet (High-Tech Safety Node)
 
@@ -101,7 +101,7 @@ This zone hosts the network backbone and management interfaces, organized into f
       * Swipe the **Valid Card** at the Front Door -\> **Door Opens**.
       * Swipe the **Invalid Card** -\> **Door stays Locked**.
 3.  **Test Transit Automation:**
-      * **Alt+Move the muse** the Motion Detector in the Transit area -\> **Light turns ON**.
+      * **Alt+Move the mouse** the Motion Detector in the Transit area -\> **Light turns ON**.
       * Move the **Old Car** near the Transit Smoke Detector to test the alarm.
 
 4. **Test Fire System (SBC - Toilet) Setup**
