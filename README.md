@@ -34,7 +34,7 @@ This zone hosts the network backbone and management interfaces, organized into f
 * **Components:**
     * **RFID Reader:** Scans physical cards.
     * **Electric Door Lock:** Unlocks only upon receiving a "Valid" signal from the Authentication Server.
-    * **Test Subjects:** 1 Valid Card (Grant Access) and 1 Invalid Card (Deny Access).
+    * **Test Subjects:** 2 Valid Card (Grant Access) and 2 Invalid Card (Deny Access).
 
 ### 2.3 Zone C: The Classroom (Comfort & Safety)
 
