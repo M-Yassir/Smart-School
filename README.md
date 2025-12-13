@@ -101,7 +101,7 @@ This zone hosts the network backbone and management interfaces, organized into f
       * Swipe the **Valid Card** at the Front Door -\> **Door Opens**.
       * Swipe the **Invalid Card** -\> **Door stays Locked**.
 3.  **Test Transit Automation:**
-      * **Alt+Click** the Motion Detector in the Transit area -\> **Light turns ON**.
+      * **Alt+Move the muse** the Motion Detector in the Transit area -\> **Light turns ON**.
       * Move the **Old Car** near the Transit Smoke Detector to test the alarm.
 
 4. **Test Fire System (SBC - Toilet) Setup**
