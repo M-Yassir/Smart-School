@@ -10,7 +10,7 @@
 
 ## 1. Executive Summary
 
-This project simulates a next-generation Smart School environment divided into five functional zones: Administration, Front Door, Classroom, Hallway (Transit), and Restrooms (Toilet). The system integrates safety (Fire/Smoke detection), security (RFID Access & Surveillance), and environmental comfort (HVAC & Lighting) into a unified network. Key infrastructure components are organized into logical **Clusters** for cleaner management.
+This project simulates a Smart School environment divided into five functional zones: Administration, Front Door, Classroom, Hallway (Transit), and Restrooms (Toilet). The system integrates safety (Fire/Smoke detection), security (RFID Access & Surveillance), and environmental comfort (HVAC & Lighting) into a unified network. Key infrastructure components are organized into logical **Clusters** for cleaner management.
 
 ## 2. Zone Architecture
 
