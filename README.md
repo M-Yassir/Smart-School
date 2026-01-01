@@ -1,4 +1,4 @@
-# 📄 Technical Report: Smart School IoT Infrastructure
+# 📄 Smart School IoT Infrastructure
 
 **Project Name:** SecureSmart School System
 
