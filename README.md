@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/609a8054-8678-46bd-afd2-32a4dc1c6f27
 
 ## 🚦 How to Run the Simulation
 
-1.  **Open Project:** Load the `.pkt` file in Cisco Packet Tracer.
+1.  **Open Project:** Load the `smart_school.pkt` file in Cisco Packet Tracer.
 2.  **Test Access:**
       * Swipe the **Valid Card** at the Front Door -\> **Door Opens**.
       * Swipe the **Invalid Card** -\> **Door stays Locked**.
