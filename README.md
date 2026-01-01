@@ -78,6 +78,7 @@ This zone hosts the network backbone and management interfaces, organized into f
 * **Simulation Object:** **Fire Thing** Drag-and-drop object to test the Fire Monitor logic.
 
 ## 📺 See It in Action
+https://github.com/user-attachments/assets/609a8054-8678-46bd-afd2-32a4dc1c6f27
 
 ## 3. Communication Diagram
 
