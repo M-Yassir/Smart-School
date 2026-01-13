@@ -1,4 +1,5 @@
 # 📄 Smart School IoT Infrastructure
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?logo=cisco&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 **Project Name:** SecureSmart School System
