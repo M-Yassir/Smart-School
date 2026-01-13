@@ -142,3 +142,5 @@ This is a multi-step process for administrators to subscribe to the SBC's alerts
 
 * Abouchiba Mohamed Yassir
 * Kholty Abdelali
+
+🚀 **Thanks for checking out our project!** 🚀
