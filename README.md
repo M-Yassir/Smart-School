@@ -1,4 +1,5 @@
 # 📄 Smart School IoT Infrastructure
+![License](https://img.shields.io/badge/License-MIT-green)
 
 **Project Name:** SecureSmart School System
 
