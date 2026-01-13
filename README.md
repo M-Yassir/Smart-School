@@ -135,3 +135,8 @@ This is a multi-step process for administrators to subscribe to the SBC's alerts
   * **Trigger:** Use **Alt+Click** on the old car to generate smoke in order to trigger the Smoke Detector in the Classroom.
   * **Verify Automation:** Verify the **Window Opens** automatically to vent smoke.
   * **Verify Alarm:** Verify the **Siren** activates as an auditory warning.
+
+## 👥 Team Members
+
+* Abouchiba Mohamed Yassir
+* Kholty Abdelali
